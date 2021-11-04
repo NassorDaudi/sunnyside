@@ -1,0 +1,120 @@
+body{
+padding: 0;
+margin: 0;
+}
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  padding-top: 20px;
+  position: absolute;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.navbar-nav{
+  padding-left: 800px;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.btn{
+  border-radius: 100%;
+}
+.header{
+  text-align: center;
+}
+h1{
+  padding: 150px 450px;
+  position: absolute;
+  z-index: 1;
+  font-size: 50px;
+  color: #fff;
+}
+h3{
+  text-align: center;
+}
+.arrow-down{
+position: absolute;
+  padding-left: 200px;
+  width: 100px;
+  height: 114px;
+}
+.image-header{
+  width: 100%;
+  position: relative;
+  z-index: -1;
+}
+.row{
+  width: 100%
+  padding: 0;
+  margin: 0;
+}
+.row2{
+  padding: 100px 150px;
+}
+p{
+  color: #2F4F4F;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 2;
+}
+.transform-image{
+  padding: 0;
+}
+.transform-stand{
+  background-color: #fff;
+  text-align: center;
+  text-align: left;
+  padding: 200px 100px;
+}
+
+.graphic-photography1{
+  text-align: center;
+  position: absolute;
+  padding: 400px 850px 0 150px;
+
+}
+
+.graphic-photography-image1{
+  position: relative;
+  z-index: -1
+}
+.graphic-photography2{
+  text-align: center;
+  position: absolute;
+  padding: 400px 150px
+}
+.graphic-photography-image2{
+  position: relative;
+  z-index: -1
+}
+.graphoto{
+  padding: 0;
+}
+.testimonial{
+  text-align: center;
+
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 20%;
+  padding: 50px 0;
+}
+.image-only{
+  padding: 0;
+}
+.sunnyside{
+  text-align: center;
+  padding: 50px 0;
+  background-color: #A9A9A9;
+}
+.sunnyside-link{
+  padding: 50px 20px;
+  text-decoration: none;
+  color: #2F4F4F;
+}
+.fab{
+  padding: 20px 10px;
+}
